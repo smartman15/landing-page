@@ -26,6 +26,12 @@ body{
     color: #E5E7EB;
 }
 
+.hero-main{
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
 ul{
     list-style-type: none;
 }
