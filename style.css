@@ -9,8 +9,12 @@ body{
     display: flex;
 }
 
-.container.header{
+.container.header,
+.container.hero{
     background-color: #1F2937;
+}
+
+.container.header{
     justify-content: space-around;
     align-items: center;
 }
