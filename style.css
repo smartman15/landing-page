@@ -9,6 +9,8 @@ body{
 
 .container.header{
     background-color: #1F2937;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .header-logo{
@@ -19,4 +21,8 @@ body{
 .header-link{
     font-size: 18px;
     color: #E5E7EB;
+}
+
+ul{
+    list-style-type: none;
 }
