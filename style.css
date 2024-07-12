@@ -44,6 +44,10 @@ div.container.hero > p{
     color: #F9FAF8;
 }
 
+div.container.hero > button{
+    width: 100px;
+}
+
 ul.container{
     gap: 25px;
 }
