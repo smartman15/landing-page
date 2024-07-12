@@ -40,6 +40,10 @@ ul{
     list-style-type: none;
 }
 
+div.container.hero > p{
+    color: #F9FAF8;
+}
+
 ul.container{
     gap: 25px;
 }
