@@ -33,3 +33,7 @@ ul{
 ul.container{
     gap: 25px;
 }
+
+.container.hero{
+    flex-direction: column;
+}
