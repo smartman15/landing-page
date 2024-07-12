@@ -30,20 +30,21 @@ body{
     color: #E5E7EB;
 }
 
+p.hero,
+.hero-main{
+    color: #F9FAF8;
+}
+
 .hero-main{
     font-size: 48px;
     font-weight: 800;
     margin: 0;
-    color: #F9FAF8;
 }
 
 ul{
     list-style-type: none;
 }
 
-div.container.hero > p{
-    color: #F9FAF8;
-}
 
 div.container.hero > button{
     width: 100px;
