@@ -26,3 +26,7 @@ body{
 ul{
     list-style-type: none;
 }
+
+ul.container{
+    gap: 25px;
+}
