@@ -96,3 +96,9 @@ ul.container{
 div.img-text > img{
     border-radius: 25px;
 }
+
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
