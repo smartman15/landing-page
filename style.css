@@ -65,6 +65,10 @@ ul.container{
     color: #1F2937;
 }
 
+.img-text{
+    flex-direction: column;
+}
+
 .text{
     font-size: 18px;
     font-weight: 300;
