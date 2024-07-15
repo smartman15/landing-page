@@ -41,6 +41,7 @@ p.hero,
     margin: 0;
 }
 
+
 ul{
     list-style-type: none;
 }
@@ -56,6 +57,7 @@ ul.container{
 
 .container.hero{
     flex-direction: column;
+    width: 400px;
 }
 
 .info-header{
