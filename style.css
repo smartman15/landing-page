@@ -74,3 +74,7 @@ ul.container{
     font-size: 18px;
     font-weight: 300;
 }
+
+.gaksters{
+    gap: 15px;
+}
