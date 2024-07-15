@@ -92,3 +92,7 @@ ul.container{
 .gaksters{
     gap: 15px;
 }
+
+div.img-text > img{
+    border-radius: 25px;
+}
