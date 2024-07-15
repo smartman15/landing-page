@@ -57,3 +57,9 @@ ul.container{
 .container.hero{
     flex-direction: column;
 }
+
+.info-header{
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+}
