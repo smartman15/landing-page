@@ -14,6 +14,10 @@ body{
     background-color: #1F2937;
 }
 
+.heroo{
+    justify-content: space-evenly;
+}
+
 .container.header{
     justify-content: space-around;
     align-items: center;
