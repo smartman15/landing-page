@@ -114,3 +114,8 @@ div.img-text > img{
     flex-direction: column;
     align-items: end;
 }
+
+.guy{
+    font-size: 22px;
+    font-weight: bold;
+}
