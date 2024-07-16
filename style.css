@@ -23,7 +23,8 @@ body{
 }
 
 .heroo{
-    justify-content: space-evenly;
+    justify-content: center;
+    gap: 150px;
     align-items: center;
     padding: 75px 0 75px 0;
 }
