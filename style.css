@@ -65,7 +65,10 @@ ul{
     width: 100px;
     background-color: #3882F6;
     color: white;
-    border-radius: 25px;
+    border-radius: 7px;
+    border: 2px;
+    padding: 7px;
+    font-weight: bold;
 }
 
 ul.container{
