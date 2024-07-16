@@ -9,6 +9,10 @@ body{
     display: flex;
 }
 
+.columnn{
+    flex-direction: column;
+}
+
 .container.header,
 .container.heroo{
     background-color: #1F2937;
