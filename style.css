@@ -136,6 +136,7 @@ div.img-text > img{
     justify-content: center;
     padding: 50px 0 50px 0;
     justify-content: space-around;
+    border-radius: 15px;
 }
 
 .action{
