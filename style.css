@@ -17,7 +17,7 @@ body{
 .heroo{
     justify-content: space-evenly;
     align-items: center;
-    height: 450px;
+    padding: 75px 0 75px 0;
 }
 
 .container.header{
