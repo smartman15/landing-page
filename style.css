@@ -163,3 +163,12 @@ div.img-text > img{
     border-radius: 15px;
     width: 100px;
 }
+
+
+.footer{
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: white;
+    padding: 25px 0 25px 0;
+}
