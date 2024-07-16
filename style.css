@@ -137,4 +137,6 @@ div.img-text > img{
 
 .section5{
     padding: 75px 0 75px 0;
+    justify-content: center;
+    align-items: center;
 }
