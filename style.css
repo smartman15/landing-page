@@ -103,6 +103,7 @@ ul.container{
 
 div.img-text > img{
     border-radius: 25px;
+    border: 3px solid #3882F6;
 }
 
 .quote1{
