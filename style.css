@@ -144,6 +144,10 @@ div.img-text > img{
     color: white;
 }
 
+.action.bold{
+    font-size: 20px;
+}
+
 .section5{
     padding: 75px 0 75px 0;
     justify-content: center;
