@@ -132,7 +132,7 @@ div.img-text > img{
 
 .btn-color{
     background-color: #3882F6;
-    flex-grow: 0.5;
+    flex-grow: 0.35;
     justify-content: center;
     padding: 50px 0 50px 0;
     justify-content: space-around;
